@@ -1,0 +1,15 @@
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\bin\Debug\net9.0\lab-1-5-console-commands-roary-dennison.exe
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\bin\Debug\net9.0\lab-1-5-console-commands-roary-dennison.deps.json
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\bin\Debug\net9.0\lab-1-5-console-commands-roary-dennison.runtimeconfig.json
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\bin\Debug\net9.0\lab-1-5-console-commands-roary-dennison.dll
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\bin\Debug\net9.0\lab-1-5-console-commands-roary-dennison.pdb
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\obj\Debug\net9.0\lab-1-5-console-commands-roary-dennison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\obj\Debug\net9.0\lab-1-5-console-commands-roary-dennison.AssemblyInfoInputs.cache
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\obj\Debug\net9.0\lab-1-5-console-commands-roary-dennison.AssemblyInfo.cs
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\obj\Debug\net9.0\lab-1-5-console-commands-roary-dennison.csproj.CoreCompileInputs.cache
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\obj\Debug\net9.0\lab-1-5-console-commands-roary-dennison.sourcelink.json
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\obj\Debug\net9.0\lab-1-5-console-commands-roary-dennison.dll
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\obj\Debug\net9.0\refint\lab-1-5-console-commands-roary-dennison.dll
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\obj\Debug\net9.0\lab-1-5-console-commands-roary-dennison.pdb
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\obj\Debug\net9.0\lab-1-5-console-commands-roary-dennison.genruntimeconfig.cache
+C:\Users\student\Code\my-code-dir\lab-1-5-console-commands-roary-dennison\obj\Debug\net9.0\ref\lab-1-5-console-commands-roary-dennison.dll
